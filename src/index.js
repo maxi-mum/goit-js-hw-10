@@ -1,4 +1,4 @@
-import menuCardTmpl from "./templates/card_menu.hbs";
+import menuCardTmpl from "./templates/list-item.hbs";
 import cards from './menu.json'
 import './styles.css';
 const refs = {
